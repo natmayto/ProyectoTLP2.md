@@ -48,3 +48,10 @@ se navega, en esa pestaña para poder acceder se tiene que registrar en la pági
 En la otra pestaña se explicarán tipos de virus con sus imágenes y qué se recomienda para combatir o evitarlos, 
 y en la última pestaña servirá para que las personas envíen sus comentarios y preguntas de lo que necesiten decir o expresarse.
  (la imagen está en los documentos subidos de la rama informe-uno)
+ 
+ ### Observaciones Entregable Uno.
+- Tener más claridad en el dominio del tema y el manejo del tiempo al realizar la presentación
+- Es importante añadir la presentación que realizaste en el curso, debes mejorar la información, ser más claro el concepto a querer realizar
+- No se tuvieron en cuenta correcciones y no esta actualizado el README.md
+- Tampoco se realizó el tablero de actividades respecto al frontend.
+#### Nota: 3,3
