@@ -1,5 +1,7 @@
 Nombre: Natalia Maya Toro
 
+Nombre del proyecto: WikiFayrus
+
 Título y presentación general
 
 Título: Wikifayrus
