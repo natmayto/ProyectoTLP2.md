@@ -4,6 +4,7 @@ modelo Entidad-Relación, diagrama de Clases, modelo Wireframe y el documento an
 En la carpeta "landing-page" está el landing page.
 
 En la carpeta "project-app" está el punto de las validaciones.
+
 (landing-page y project-app tienen react y bootstrap).
 
 En la carpeta notes-app no tiene react pero si está conectada con la pase de datos y tiene crud, las validaciones completas en el login y registrer.
