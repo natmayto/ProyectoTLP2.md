@@ -7,4 +7,4 @@ En la carpeta "project-app" está el punto de las validaciones.
 
 (landing-page y project-app tienen react y bootstrap).
 
-En la carpeta notes-app no tiene react pero si está conectada con la base de datos y tiene el CRUD, las validaciones completas en el login, registrer y las notas.
+En la carpeta notes-app no tiene react pero si está conectada con la base de datos y tiene el CRUD, las validaciones completas en el login, register y las notas.
