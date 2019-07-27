@@ -6,6 +6,8 @@ Los puntos del proyecto están en el archivo trabajo.docx
 ● Descripción de la propuesta
 ● Diagrama de Clases)
 
+En WikiFayrus.pptx está la presentación con la plantilla institucional (está también el mapa de navegación en la presentación).
+
 landing-page, project-app, es la parte que tiene react
 
 notes-app es el resto del trabajo, es decir, la MongoDB, nodejs, express, el CRUD y el login.
